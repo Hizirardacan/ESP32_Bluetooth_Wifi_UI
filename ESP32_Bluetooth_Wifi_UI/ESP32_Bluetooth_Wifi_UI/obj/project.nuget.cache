@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "jigLkk6MVxc=",
+  "success": true,
+  "projectFilePath": "E:\\source\\repos\\ESP32_Bluetooth_Wifi_UI\\ESP32_Bluetooth_Wifi_UI\\ESP32_Bluetooth_Wifi_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.7\\runtime.android-arm.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.android-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.7\\runtime.android-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.7\\runtime.android-x86.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.7\\runtime.linux-arm.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.7\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.7\\runtime.linux-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.7\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.7\\runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.7\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.7\\runtime.osx-x64.runtime.native.system.io.ports.9.0.7.nupkg.sha512",
+    "C:\\Users\\Hızır Arda Can\\.nuget\\packages\\system.io.ports\\9.0.7\\system.io.ports.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
